@@ -19,4 +19,3 @@ Jetpack Compose Playgrounds Samples
 ![enter image description here](https://media.giphy.com/media/GhgidrcpnIg7xHFp7A/giphy.gif)
 
 ![enter image description here](https://media.giphy.com/media/J4IaLfjew2p16lYUSg/giphy.gif)
-
